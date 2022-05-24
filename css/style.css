@@ -1,3 +1,10 @@
+header {background-color:white;
+margin: 0px auto;
+padding: 5% 5% 0px 5%;}
+
+
+ body { background-color: #cffcdd; }
+
 
 body {margin: 0;
 background-color: #d9fced}
@@ -7,6 +14,8 @@ background-color: #d9fced}
     text-align: center;
 color: black;
 }
+
+
 
 .blog { 
 
@@ -28,6 +37,7 @@ left: 20px;
 top: 0;}
 
 
+
 .ni { text-align: center;
  font-family: 'Libre Baskerville', serif;
 font-size: 20px; 
@@ -47,19 +57,20 @@ top: 800px; }
 
     font-size: 60px; }
 
-    .arti { position: absolute;
-    top: 1500px; }
 
-    .foglie { 
+
+.menu {
+font-family: 'Jost', sans-serif;
+font-size: 15px;
+text-transform: uppercase;}
+
+.sfondo {
   min-height: 100%;
   background-position: center;
   background-size: cover;
-  width: 1600px;
-  height: 700px;
-  opacity: 50%;
+  opacity: 60%;
 }
 
-.punto { list-style-type: none; }
 .barra {font-family: 'Jost', sans-serif;
 font-size: 20px;}
 
